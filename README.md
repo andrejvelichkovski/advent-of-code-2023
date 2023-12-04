@@ -1,2 +1,3 @@
-# advent-of-code-2023
-Solutions for the 2023 edition of the Advent of Code
+# AoC 2023 Solutions
+
+This repository contains the files for my AoC 2023 solutions.
